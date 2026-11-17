@@ -1,0 +1,5 @@
+- Fork do repositório Serra-Rocketry/telemetry-trainee-program;
+- Clone do meu fork;
+- Criação da estrutura de entregas;
+- Criação README pessoal;
+- Criação hello.py
